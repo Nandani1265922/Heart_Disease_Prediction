@@ -20,7 +20,8 @@ The system predicts whether a person is likely to have heart disease based on me
 -columns.pkl
 -scalar.pkl
 -heart.csv
+# **project link** #
+https://heartdiseaseprediction-cijgtwwv9mtxtvij9yrq5a.streamlit.app/
 
-
-# ** Author ** #
+#  Author  
 Nandani Gautam
