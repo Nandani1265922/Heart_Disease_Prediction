@@ -6,7 +6,7 @@ model1_column = joblib.load('columns.pkl')
 model2 = joblib.load('KNN_heart.pkl')
 model3_scaler = joblib.load('scalar.pkl')
 
-st.title("Heart Disease Prediction App by Nandani")
+st.title("Heart Disease Prediction")
 st.markdown("This app predicts the likelihood of heart disease based on user input.")
 age=st.slider("AGE", 20, 80, 50)
 sex=st.selectbox("SEX",["Male","Female"])
